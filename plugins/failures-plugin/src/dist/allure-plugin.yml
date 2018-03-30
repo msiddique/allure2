@@ -1,0 +1,7 @@
+id: failures
+name: Failures aggregator
+description: The aggregator adds failures tab to the report
+extensions:
+  - io.qameta.allure.failures.FailuresPlugin
+jsFiles:
+  - index.js

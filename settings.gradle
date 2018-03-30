@@ -12,7 +12,8 @@ def plugins = [
         'junit-xml-plugin',
         'xunit-xml-plugin',
         'xctest-plugin',
-        'trx-plugin'
+        'trx-plugin',
+        'failures-plugin'
 ]
 
 plugins.forEach({
